@@ -1,0 +1,38 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-second-project-dev-60802-authRole",
+            "UnauthRoleArn": "arn:aws:iam::593831102132:role/amplify-my-second-project-dev-60802-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::593831102132:role/amplify-my-second-project-dev-60802-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-my-second-project-dev-60802-deployment",
+            "UnauthRoleName": "amplify-my-second-project-dev-60802-unauthRole",
+            "StackName": "amplify-my-second-project-dev-60802",
+            "StackId": "arn:aws:cloudformation:us-west-2:593831102132:stack/amplify-my-second-project-dev-60802/105d88e0-35cb-11ea-a2a6-02ca0801967a",
+            "AmplifyAppId": "d1mat38xoovvg"
+        },
+        "categories": {
+            "auth": {
+                "mysecondproject3dd019de": {}
+            }
+        }
+    },
+    "develop": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-second-project-develop-50300-authRole",
+            "UnauthRoleArn": "arn:aws:iam::593831102132:role/amplify-my-second-project-develop-50300-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::593831102132:role/amplify-my-second-project-develop-50300-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-my-second-project-develop-50300-deployment",
+            "UnauthRoleName": "amplify-my-second-project-develop-50300-unauthRole",
+            "StackName": "amplify-my-second-project-develop-50300",
+            "StackId": "arn:aws:cloudformation:ap-south-1:593831102132:stack/amplify-my-second-project-develop-50300/54d6fc70-40c2-11ea-a0db-028f38a10716",
+            "AmplifyAppId": "d301a6htk47i97"
+        },
+        "categories": {
+            "auth": {
+                "mysecondproject3dd019de": {}
+            }
+        }
+    }
+}

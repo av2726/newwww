@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"mysecondproject3dd019de": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
